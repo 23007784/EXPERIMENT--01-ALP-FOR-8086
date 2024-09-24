@@ -89,8 +89,6 @@ HLT
 ```
 ## Output  
  ![image](https://github.com/user-attachments/assets/1f8716da-ed9f-4ccf-b657-f08bbe0b4bad)
-
- 
 ## Subtraction   of 8 bit numbers  ALP 
  ```
  ORG 100h
@@ -101,7 +99,6 @@ HLT
  ```
 ## Output 
  ![image](https://github.com/user-attachments/assets/1901a10a-b120-4287-a28e-13a0027414bd)
-
 ## Multiplication alp 
 ```
 ORG 100h
@@ -112,8 +109,6 @@ HLT
 ```
  ## Output  
 ![image](https://github.com/user-attachments/assets/9c8ad22d-7a5a-4883-8ff3-8cdce0c0077f)
-
-
 ## Division alp 
 ```
 ORG 100h
