@@ -120,6 +120,46 @@ HLT
 ## Output  
 ![image](https://github.com/user-attachments/assets/292f3adf-bb87-41a9-999b-c458bdeca778)
 
+## Programs for logical operations
+## Logical AND
+```
+MOV AL,53H
+MOV BL,24H
+AND AL,BL
+HLT
+```
+## Output
+![image](https://github.com/user-attachments/assets/7cbc943a-39d9-4bfd-99a1-951ae25ceac8)
+
+## Logical OR
+```
+MOV AL,53H
+MOV BL,24H
+OR AL,BL
+HLT
+```
+## Output
+![image](https://github.com/user-attachments/assets/a4112932-17c2-4bfd-9103-bb17d77b6df5)
+
+## Logical NOT 
+```
+MOV AL,53H
+NOT AL
+HLT
+```
+## Output
+![image](https://github.com/user-attachments/assets/5ce9b2aa-9cc3-4641-a3d0-a02636aefca0)
+
+## Logical XOR
+```
+MOV AL,53H
+MOV BL,24H
+XOR AL,BL
+HLT
+```
+## Output
+![image](https://github.com/user-attachments/assets/25806f01-f75b-4faf-8cc9-0680ec6a8e13)
+
 ## Result :
  Thus, To write and execute ALP on fundamental arithmetic operations is successful.
 
